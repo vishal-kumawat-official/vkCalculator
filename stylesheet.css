@@ -36,13 +36,6 @@ button{
     border-radius: 17px;
 }
 
-
-.container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 #heading{
     font-family: 'Supermercado One', cursive;
     font-size: 52px;
